@@ -30,7 +30,7 @@ body {
 
 ## About
 
-I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of Technology, Roorkee. I have joined the Ph.D. in July, 2022 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my master's degree from [National Institute of Technology, Hamirpur](http://www.nith.ac.in/).  
+I am pursuing Ph.D.(part time) in the Department of Computer Science and Engineering at Indian Institute of Technology, Roorkee. I joined the Ph.D. programme in July, 2022 under the supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my master's degree from [National Institute of Technology, Hamirpur](http://www.nith.ac.in/).  
 
 ## Education
 
@@ -63,10 +63,11 @@ _National Institute of Technology Hamirpur_
 _RSTM Nagpur University DTE Mumbai_
 
 ## Achievements
-     - Member of the team which developed the automation of design of Boeing Plane 
+     - Member of the team which developed the software for automation of 
+       design process of Boeing Plane in Infosys.
      - Member of the team to implement Ultra High Bandwidth Network Project 
-       Under Prof.R.Balasubramanian
-     - Recommended in Indian Navy as Permanent Commissioned Officer 
+       Under Prof.R.Balasubramanian in IIT Roorkee
+     - Recommended in Indian Navy as Permanent Commissioned Officer. 
  
 ## Research_Interests
    - Computer Vision 
