@@ -27,7 +27,7 @@ body {
   
 </div>
 
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/22Deepak.jpg" width="210" height="260" />
+<img src="[https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/22Deepak.jpg](https://www.facebook.com/photo.php?fbid=115094164014916&set=pb.100065429975101.-2207520000.&type=3)" width="210" height="260" />
 
 ## About
 
@@ -67,22 +67,22 @@ _Uttar Pradesh Technical University, Lucknow_
 International Conference on Computer Vision & Image Processing (CVIP 2022).
 
 ## Experience
-   - Worked as Assistant Professor at Teerthanker Mahaveer University, Moradabad, Uttar Pradesh.
-   - Worked as Assistant Professor under TEQIP-III (NPIU-MHRD) at College of Technology GBPUAT, Pantnagar Uttarakhand.
+   - Working as Technical Officer in Institute Computer Center of Indian Institute of Technology Roorkee.
+   - Earlier Worked in Infosys technologies Limited Bangalore and Indian Institute of Technology Delhi.
    - Attended one week training program on “Machine Learning and Its Applications” organized by Electronics and ICT Academy, IIT Roorkee from 27 Oct – 31 Oct, 2018. 
    - Attended short term course under TEQIP-III on Advanced Pedagogies: Active Learning and Digital Tools held from 24th June to 28th June 2019 at IIT Delhi
    - Attended short course on Data Science and Analytics during February 17-27, 2020 at Indian Institute of Technology, Gandhinagar.
    - Resource Person in workshop on Advanced Programming Concepts Using C and Python on September 21st and 23rd, 2019 organized by FOECS, TMU Moradabad
    
 ## Professional Membership
-  - Professional member of ACM (Association for computing Machinery)
-  - Associate member of IEI ( The Institution of Engineers (India) )
+  - To be decleared
+  - To be decleared
 
 ##   Contact
-Deepak Kumar \
+Sandeep Sharma \
 Department of Computer Science and Engineering\
 Machine Vision Lab\
 Indian Institute of Technology, Roorkee\
-e-mail: d_kumar [at] cs [dot] iitr [dot] ac [dot] in
+e-mail: sandeep_s [at] cs [dot] iitr [dot] ac [dot] in
 
    
