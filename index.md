@@ -64,7 +64,8 @@ _RSTM Nagpur University DTE Mumbai_
 
 ## Achievements
      - Member of the team which developed the automation of design of Boeing Plane 
-     - Member of the team to implement Ultra High Bandwidth Network Project Under Prof.R.Balasubramanian
+     - Member of the team to implement Ultra High Bandwidth Network Project 
+       Under Prof.R.Balasubramanian
      - Recommended in Indian Navy as Permanent Commissioned Officer 
  
 ## Research_Interests
