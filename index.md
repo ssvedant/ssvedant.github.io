@@ -27,7 +27,7 @@ body {
   
 </div>
 
-<img src="[[https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/22Deepak.jpg](https://www.facebook.com/photo.php?fbid=115094164014916&set=pb.100065429975101.-2207520000.&type=3)" width="210" height="260](https://github.com/ssvedant/personal_portfolio/blob/master/media/portfolio/images/Screenshot_20200531-181033_Gallery.jpg)" />
+<img src="https://github.com/ssvedant/personal_portfolio/blob/master/media/portfolio/images/Screenshot_20200531-181033_Gallery.jpg" width="210" height="260 />
 
 ## About
 
