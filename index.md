@@ -27,7 +27,8 @@ body {
   
 </div>
 
-<img src="https://github.com/ssvedant/personal_portfolio/blob/master/media/portfolio/images/Screenshot_20200531-181033_Gallery.jpg" width="210" height="260 />
+<img src="https://github.com/ssvedant/personal_portfolio/blob/master/media/portfolio/images/Screenshot_20200531-181033_Gallery.jpg" width="210" height="260" />
+
 
 ## About
 
