@@ -32,31 +32,32 @@ body {
 
 ## About
 
-I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2021 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my master's degree from [Motilal Nehru National Institute of Technology, Allahabad](http://www.mnnit.ac.in/).  
+I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of Technology, Roorkee. I have joined the Ph.D. in July, 2022 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my master's degree from [National Institute of Technology, Hamirpur](http://www.nith.ac.in/).  
 
 ## Education
 
 **PhD(Computer Science and Engineering)**\
 _Indian Institute of Technology, Roorkee_\
-**Joining Date:** Dec, 2021\
+**Joining Date:** July, 2022\
 **Course Work Details:** \
-    - Computer Vision  \
-    - Deep Learning          \
-    - Numerical Optimization     \
+    - Essential Mathematics for AI  \
+    - Machine Learning          \
+    - Programming for AI    \
 **Research Area:** Computer Vision \
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
-**M.Tech. (Computer Science and Engg.), 2016**\
-_Motilal Nehru National Institute of Technology Allahabad_ \
-**Supervisor:** [Prof.Rajesh Tripathi](http://mnnit.ac.in/profile/rajeshtcsed) \
-**CGPA**: 8.25
+**M.Tech. (VLSI), 2010**\
+_National Institute of Technology Hamirpur_ \
+**Supervisor:** [Prof.Rajeevan Chandel](https://portfolios.nith.ac.in/index.php?/nith/dr-mrs-rajeevan-chandel-) \
+**CGPA**: 7.74
 
-**B.Tech. (Computer Science and Engineering), 2012**\
-_Uttar Pradesh Technical University, Lucknow_
+**B.E. (Electronics Engineering), 2007**\
+_RSTM Nagpur University DTE Mumbai_
 
-## Achievements 
-   - GATE qualified, 2013, 2014, 2015
-   - UGC-NET qualified in Dec 2015, November 2017, July 2018
+## Achievements
+     - Member of the team which developed the automation of design of Boeing Plane 
+     - Member of the team to implement Ultra High Bandwidth Network Project Under Prof.R.Balasubramanian
+     - Recommended in Indian Navy as Permanent Commissioned Officer 
  
 ## Research_Interests
    - Computer Vision 
@@ -64,16 +65,14 @@ _Uttar Pradesh Technical University, Lucknow_
    - Deep Learning
 
 ## Publications
-   - D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
-International Conference on Computer Vision & Image Processing (CVIP 2022).
+   - To be Published.
 
 ## Experience
    - Working as Technical Officer in Institute Computer Center of Indian Institute of Technology Roorkee.
-   - Earlier Worked in Infosys technologies Limited Bangalore and Indian Institute of Technology Delhi.
-   - Attended one week training program on “Machine Learning and Its Applications” organized by Electronics and ICT Academy, IIT Roorkee from 27 Oct – 31 Oct, 2018. 
-   - Attended short term course under TEQIP-III on Advanced Pedagogies: Active Learning and Digital Tools held from 24th June to 28th June 2019 at IIT Delhi
-   - Attended short course on Data Science and Analytics during February 17-27, 2020 at Indian Institute of Technology, Gandhinagar.
-   - Resource Person in workshop on Advanced Programming Concepts Using C and Python on September 21st and 23rd, 2019 organized by FOECS, TMU Moradabad
+   - Earlier Worked in Infosys Technologies Limited Bangalore and Indian Institute of Technology Delhi.
+   - CCNA certified. 
+   - Certified AI professional
+   - Dot Net Trained engineer 
    
 ## Professional Membership
   - To be decleared
