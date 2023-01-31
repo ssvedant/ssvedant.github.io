@@ -25,7 +25,7 @@ body {
   
 </div>
 
-<img src="https://github.com/ssvedant/personal_portfolio/blob/master/media/portfolio/images/Screenshot_20200531-181033_Gallery.jpg" width="210" height="260" />
+<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/25Sandeep_.jpg" width="210" height="260" />
 
 
 ## About
