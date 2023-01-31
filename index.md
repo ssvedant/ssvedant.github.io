@@ -34,31 +34,31 @@ I am a Ph.D. student in the Computer Science and Engineering department at India
 
 ## Education
 
-**PhD(Computer Science and Engineering)**\
+**PhD(Computer Science and Engineering)**
 
-_Indian Institute of Technology, Roorkee_\
+_Indian Institute of Technology, Roorkee_
 
-**Joining Date:** July, 2022\
+**Joining Date:** July, 2022
 
-**Course Work Details:** \
+**Course Work Details:** 
 
-    - Essential Mathematics for AI  \
-    - Machine Learning          \
-    - Programming for AI    \
+    - Essential Mathematics for AI  
+    - Machine Learning          
+    - Programming for AI    
     
-**Research Area:** Computer Vision \
+**Research Area:** Computer Vision 
 
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
-**M.Tech. (VLSI), 2010**\
+**M.Tech. (VLSI), 2010**
 
-_National Institute of Technology Hamirpur_ \
+_National Institute of Technology Hamirpur_ 
 
-**Supervisor:** [Prof.Rajeevan Chandel](https://portfolios.nith.ac.in/index.php?/nith/dr-mrs-rajeevan-chandel-) \
+**Supervisor:** [Prof.Rajeevan Chandel](https://portfolios.nith.ac.in/index.php?/nith/dr-mrs-rajeevan-chandel-) 
 
 **CGPA**: 7.74
 
-**B.E. (Electronics Engineering), 2007**\
+**B.E. (Electronics Engineering), 2007**
 
 _RSTM Nagpur University DTE Mumbai_
 
