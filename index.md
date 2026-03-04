@@ -75,7 +75,10 @@ _RSTM Nagpur University DTE Mumbai_
    - Deep Learning
 
 ## Publications
-   - To be Published.
+   - S.Sharma, R. Balasubramanian, "Chaotic Filters as a Novel Augmentation Technique for Image Classification" in Springer Series on 
+     Communications in Computer and Information Science (CCIS). CVIP 2025 (Accepted).  
+
+Classification.
 
 ## Experience
    - Working as Technical Officer in Institute Computer Center of Indian Institute of Technology Roorkee.
